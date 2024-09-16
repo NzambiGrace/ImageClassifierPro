@@ -5,6 +5,7 @@ This repository explores various models we can use for image classification from
 
 -To start we explore machine learning models, like RandomForestClassifier, KNN, Decision Tree Classifier and NaiveBayes Classifier
 -Also, this repository utizes the  CIFAR-10 dataset - which includes ten classes (airplane, automobile,bird,cat,deer,dog,frog, horse,ship and truck) which makes the problem a multi-class problem.
+
 ![image](https://github.com/user-attachments/assets/ffdaeb9c-3c8c-4dc3-b727-9cb71b2e79ab)
 
 ### Steps
