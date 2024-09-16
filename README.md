@@ -28,9 +28,15 @@ The above models all perform very pooryly with an average accuracy 30%, hyperpar
 
 ![image](https://github.com/user-attachments/assets/6323787b-1c1e-45ee-b487-9bd267defa73)
 
-Fort this , data preprocessing is done ( Normalization) as the image data has to be normalized, in this unlike the Machine Learning models, there is no reshaping of theimages of teh dataset since the deep learning models are more flexible.
+For this , data preprocessing is done ( Normalization) as the image data has to be normalized, in this unlike the Machine Learning models, there is no reshaping of the images of the dataset since the deep learning models are more flexible.
 
 The model performs slightly better than the machine learning models with an accuracy of 48%.
+
+### Implementing a CNN Model
+
+![image](https://github.com/user-attachments/assets/5720fede-ba35-42b0-ae2c-683a16af4a7d)
+
+The CNN model performs better than teh above models with an accuracy of 68% on the test data nad 73% on th train data after 10 epochs which is pretty good as compared to the above models.
 
 
   
