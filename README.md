@@ -25,6 +25,9 @@ This repository explores various models we can use for image classification from
 The above models all perform very pooryly with an average accuracy 30%, hyperparameter tuning improve the performances of the models but first let's try deep learning models.
 
 ### Implementing ANN Model
+
+![image](https://github.com/user-attachments/assets/6323787b-1c1e-45ee-b487-9bd267defa73)
+
 Fort this , data preprocessing is done ( Normalization) as the image data has to be normalized, in this unlike the Machine Learning models, there is no reshaping of theimages of teh dataset since the deep learning models are more flexible.
 
 The model performs slightly better than the machine learning models with an accuracy of 48%.
